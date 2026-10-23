@@ -1,0 +1,30 @@
+.registration-success {
+  padding: 43px 36px 51px;
+}
+
+.registration-success__title {
+  margin-bottom: 14px;
+}
+
+.registration-success__link {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 18px;
+  line-height: 22px;
+  color: #2f71e5;
+  cursor: pointer;
+  text-align: left;
+  font-weight: 400;
+  transition: opacity 0.2s ease;
+}
+
+.registration-success__link:hover {
+  opacity: 0.7;
+}
+
+@media screen and (max-width: 580px) {
+  .registration-success {
+    padding: 28px 16px 28px;
+  }
+}
