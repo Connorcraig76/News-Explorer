@@ -18,3 +18,5 @@
 - **HTTP Client:** Native `fetch` API (`MainApi` and `NewsApi`)
 
 DEMO VIDEO - https://www.loom.com/share/3cf9e2d5e55741bc85a92d396d8797b6
+
+LINK - https://www.explorebignews.ldtp.com
