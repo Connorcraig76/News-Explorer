@@ -1,0 +1,36 @@
+.saved-news {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f6f7;
+}
+
+.saved-news__content {
+  flex: 1;
+}
+
+.saved-news__results {
+  padding: 60px 0 80px;
+}
+
+.saved-news__container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 104px;
+}
+
+@media screen and (max-width: 1024px) {
+  .saved-news__container {
+    padding: 0 40px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .saved-news__container {
+    padding: 0 16px;
+  }
+
+  .saved-news__results {
+    padding: 32px 0;
+  }
+}
