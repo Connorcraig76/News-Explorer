@@ -23,3 +23,5 @@ This is the RESTful API server for the **News Explorer** application. It handles
 - **Logging & Utilities:** `winston`, `express-winston`, `dotenv`
 
 DEMO VIDEO - https://www.loom.com/share/3cf9e2d5e55741bc85a92d396d8797b6S
+
+LINK - https://www.explorebignews.ldtp.com
